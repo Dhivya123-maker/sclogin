@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "593716474790",
+    "project_id": "sclogin-1c03f",
+    "storage_bucket": "sclogin-1c03f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593716474790:android:57022590059c0d37bed567",
+        "android_client_info": {
+          "package_name": "com.example.sclogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593716474790-n7l438a7cihdpnrc69dkb5kunr54897a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl29OS4x6pkpg2YS_hkrH91MHJKJtFlY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593716474790-n7l438a7cihdpnrc69dkb5kunr54897a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
