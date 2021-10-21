@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">sclogin</string>
+    <string name="app_name">Sclogin</string>
 
     <string name="facebook_app_id">235366621985993</string>
     <string name="fb_login_protocol_scheme">fb235366621985993</string>
